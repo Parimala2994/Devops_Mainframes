@@ -3,7 +3,7 @@ CBL TEST
        PROGRAM-ID. SAMPLE2.
       *****************************************************************
       *                                                               *
-      *   This is a Test program                                      *
+      *   This is a Test programs                                     *
       *                                                               *
       *****************************************************************
        ENVIRONMENT DIVISION.
