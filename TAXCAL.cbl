@@ -1,5 +1,6 @@
 *******This program calculates the Tax applicxable, on the bases of tax slabs
-      * and savings and other incomes provided in the input. **********
+      * and savings and other incomes provided in the input in a sequential
+      * file. **********
        IDENTIFICATION DIVISION.
        PROGRAM-ID. STDRPT.
        ENVIRONMENT DIVISION.
